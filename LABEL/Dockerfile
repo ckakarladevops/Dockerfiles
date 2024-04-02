@@ -1,4 +1,4 @@
 FROM almalinux
 LABEL AUTHOR="KESAVA"\
-      COURSE="DOCKER"
+      COURSE="DOCKER"\
       DURATION="25 HRS"
